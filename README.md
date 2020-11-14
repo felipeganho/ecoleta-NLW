@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner-ecoleta.png" />
 </h1>
 
 ## 💻 Sobre o projeto
@@ -81,7 +81,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone https://github.com/felipeganho/ecoleta-NLW.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw1
@@ -102,7 +102,7 @@ $ npm run dev:server
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone https://github.com/felipeganho/ecoleta-NLW.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd nlw1
