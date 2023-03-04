@@ -136,7 +136,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Felipe Ganho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/felipe-silva-ganho-925068191/)
+Feito com ❤️ por Felipe Ganho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/felipeganho)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
